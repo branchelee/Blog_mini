@@ -18,6 +18,11 @@ def index():
     articles = pagination.items
     return render_template('index.html', articles=articles,
                            pagination=pagination, endpoint='.index')
+@main.route('/testpage/')
+def testpage():
+    
+    return render_template('testpage.html')
+
 
 
 @main.route('/article-types/<int:id>/')

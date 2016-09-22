@@ -1,0 +1,118 @@
+@charset "utf-8"; 
+/* CSS Document */
+/* webkit*/
+::-webkit-input-placeholder {
+color:#999;
+}
+/*moz*/
+::-moz-placeholder {
+color:#999;
+}
+
+
+
+ .gxx_head{
+	width: 100%;
+	background: url(../images/gxx_01.jpg) no-repeat center;
+	height:615px;
+	background-size:1896px 615px;
+	min-width:1000px;
+	overflow:hidden;
+}
+.gxx_head_01{
+	width: 100%;
+	background: url(../images/gxx_02.jpg) no-repeat  center;
+	height:906px;
+	background-size:1896px 906px;
+	min-width:1000px;
+	overflow:hidden;
+	margin:0px;
+}
+.gxx_head_02{
+	width: 100%;
+	background: url(../images/gxx_03.jpg) no-repeat center;
+	height:981px;
+	background-size:1896px 981px;;
+	min-width:1000px;
+	overflow:hidden;
+	margin:0px;
+}
+.gxx_head_03{
+	width: 100%;
+	background: url(../images/gxx_04.jpg) no-repeat center;
+	height:539px;
+	background-size:1896px 539px;;
+	min-width:1000px;
+	overflow:hidden;
+	margin-top:0px;
+}
+.gxx_head_04{
+	width: 100%;
+	background: url(../images/gxx_05.jpg) no-repeat center;
+	height:570px;
+	background-size:1920px 570px;
+	min-width:1000px;
+	overflow:hidden;
+	margin-top:0px;
+}
+
+.gxx_head_05{
+	width: 100%;
+	background: url(../images/gxx_06.jpg) no-repeat center;
+	height:570px;
+	background-size:1920px 570px;
+	min-width:1000px;
+	overflow:hidden;
+	margin-top:0px;
+}
+.gxx_index{
+	background:url(../images/index.png) no-repeat;
+	width:75px;
+	background-size:75px 40px;
+	height:75px;
+	position:absolute;
+	margin-top:78px;
+	margin-left:25%;
+	color:#FFF;
+}
+.gxx_index:hover{
+	background:url(../images/index.png) no-repeat;
+	width:75px;
+	background-size:75px 40px;
+	height:75px;
+	position:absolute;
+	margin-top:78px;
+	margin-left:25%;
+	color:#FFF;
+}
+.gxx_foot{
+	width:204px;
+	background: url(../images/btn.png) no-repeat;
+	height:68px;
+	background-size:204px 68px;
+	position:relative;
+	margin-top:-170px;
+	margin-left:43.5%;
+}
+.gxx_qr{
+	width:249px;
+	background: url(../images/qrgxx.png) no-repeat;
+	height:364px;
+	background-size:249px 364px;
+	position:absolute;
+	margin-top: 400px;  
+	margin-left: 82%; 
+}  
+   
+
+.gxx_top{
+	font-size:22px;
+	background:url(../images/index.png);
+}  
+.toptest{
+	width:990px;
+	height:0px;
+	background-size:990px 0px;
+	
+	
+	}
